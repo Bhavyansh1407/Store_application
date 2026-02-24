@@ -73,11 +73,6 @@ Make sure you have the following installed:
 
 ---
 
-## 📸 Screenshots
-
-> _Add your app screenshots here once the app is running_
-
----
 
 ## 🏗️ How It Works
 
